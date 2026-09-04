@@ -1,4 +1,4 @@
-name: GitHub Profile 3D Contrib
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
@@ -11,17 +11,24 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit generated graph
+
+      - name: Commit generated images
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m "generate 3D contribution graph"
-          git push
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No 3D graph changes."
+          else
+            git commit -m "generate 3D contribution graph"
+            git push
+          fi
