@@ -135,6 +135,21 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 ---
 
+# 📈 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Syedjunaid23&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://streak-stats.demolab.com/?user=Syedjunaid23&theme=transparent&hide_border=true" height="180" alt="GitHub streak"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedjunaid23&layout=compact&theme=transparent&hide_border=true&langs_count=10" height="180" alt="Most used languages"/>
+
+</div>
+
+---
+
 # 🧊 3D CONTRIBUTION GRAPH
 
 <div align="center">
@@ -575,21 +590,6 @@ C#
 </table>
 
 **Status:** 🚧 Learning & Experimenting
-
----
-
-# 📈 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syedjunaid23&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
-<img src="https://streak-stats.demolab.com/?user=Syedjunaid23&theme=transparent&hide_border=true" height="180" alt="GitHub streak"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedjunaid23&layout=compact&theme=transparent&hide_border=true&langs_count=10" height="180" alt="Most used languages"/>
-
-</div>
 
 ---
 
