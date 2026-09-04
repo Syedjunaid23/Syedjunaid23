@@ -1,24 +1,20 @@
 # Setup
 
-## 1. 3D contribution graph
+## Property | Data
+The README adds one compact **Property | Data** section. Nothing else was removed.
 
-The README uses:
+## 3D Contribution Graph
+1. Push `README.md` and `.github/workflows/profile-3d.yml` to the `Syedjunaid23/Syedjunaid23` repository.
+2. Open **Actions**.
+3. Select **GitHub-Profile-3D-Contrib**.
+4. Click **Run workflow** → **Run workflow**.
+5. Wait for the workflow to finish successfully.
+6. Check the `profile-3d-contrib` folder on the `main` branch.
 
+The README already points to:
 `./profile-3d-contrib/profile-green-animate.svg`
 
-Go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once.
+Once the workflow generates that file, the existing 3D section will display it.
 
-The workflow then generates the `profile-3d-contrib` images and commits them to the repository.
-
-## 2. Contribution snake
-
-Go to **Actions → Generate Contribution Snake → Run workflow** once.
-
-The workflow publishes these files to the `output` branch:
-
-- `github-contribution-grid-snake.svg`
-- `github-contribution-grid-snake-dark.svg`
-
-The README already references the correct `Syedjunaid23/Syedjunaid23/output/...` paths.
-
-Both workflows then update automatically on their schedules.
+## Important
+The contribution snake is left unchanged because it is already working.
