@@ -80,95 +80,6 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 ---
 
-# 🧾 PROFILE DATA
-
-<div align="center">
-
-<table>
-<tr>
-<th width="25%">Property</th>
-<th>Data</th>
-</tr>
-
-<tr>
-<td><strong>Primary Role</strong></td>
-<td>
-<img src="https://img.shields.io/badge/BIM%20Engineer-2F81F7?style=flat-square"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>Engineering</strong></td>
-<td>
-<img src="https://img.shields.io/badge/BIM%20%7C%20MEP-2F81F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computational%20Engineering-6E7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/Engineering%20Automation-6E7681?style=flat-square"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>BIM / Design</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Revit-2F81F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Revit%20MEP-2F81F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Navisworks-2F81F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dynamo-6E7681?style=flat-square"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>Programming</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>Scientific / Data</strong></td>
-<td>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>CFD / Simulation</strong></td>
-<td>
-<img src="https://img.shields.io/badge/OpenFOAM-13-6E7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyroSim-FDS-6E7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/ParaView-6E7681?style=flat-square"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>Automation</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Dynamo-6E7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-6E7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/C%23%20%7C%20.NET-6E7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/Revit%20API-6E7681?style=flat-square"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>3D / Game Dev</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
-</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
 # 🏗️ BIM ENGINEERING
 
 <div align="center">
@@ -378,6 +289,53 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 ### 🎮 3D / GAME DEV
 
 <img src="https://skillicons.dev/icons?i=unity,blender,cs" />
+
+</div>
+
+---
+
+# 🧩 PROPERTY | DATA
+
+<div align="center">
+
+<table>
+<tr>
+<th align="left">Property</th>
+<th align="left">Data</th>
+</tr>
+<tr>
+<td>Role</td>
+<td><img src="https://img.shields.io/badge/BIM%20Engineer-2F81F7?style=flat-square"/> <img src="https://img.shields.io/badge/Computational%20Engineering-WIP-6E7681?style=flat-square"/> <img src="https://img.shields.io/badge/Engineering%20Automation-WIP-6E7681?style=flat-square"/></td>
+</tr>
+<tr>
+<td>BIM / Design</td>
+<td><img src="https://img.shields.io/badge/Revit-1F6FEB?style=flat-square"/> <img src="https://img.shields.io/badge/Revit%20MEP-1F6FEB?style=flat-square"/> <img src="https://img.shields.io/badge/Navisworks-6E7681?style=flat-square"/> <img src="https://img.shields.io/badge/Dynamo-6E7681?style=flat-square"/> <img src="https://img.shields.io/badge/ACC-6E7681?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Programming</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/> <img src="https://img.shields.io/badge/C%2B%2B-WIP-6E7681?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Computational Engineering</td>
+<td><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/> <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/></td>
+</tr>
+<tr>
+<td>CFD / Simulation</td>
+<td><img src="https://img.shields.io/badge/OpenFOAM-13-6E7681?style=flat-square"/> <img src="https://img.shields.io/badge/PyroSim-FDS-6E7681?style=flat-square"/> <img src="https://img.shields.io/badge/ParaView-6E7681?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Automation</td>
+<td><img src="https://img.shields.io/badge/Dynamo-6E7681?style=flat-square"/> <img src="https://img.shields.io/badge/Revit%20API-Developing-6E7681?style=flat-square"/> <img src="https://img.shields.io/badge/Python%20Automation-WIP-6E7681?style=flat-square"/></td>
+</tr>
+<tr>
+<td>3D / Game Development</td>
+<td><img src="https://img.shields.io/badge/Unity-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Platforms / Workflow</td>
+<td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square"/> <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square"/></td>
+</tr>
+</table>
 
 </div>
 
