@@ -15,30 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ========================================================= -->
+<!--                    SYED JUNAID QUADRI                     -->
+<!--                 GitHub Profile README                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=SYED%20JUNAID%20QUADRI&fontSize=42&fontAlignY=38&desc=BIM%20ENGINEER%20%7C%20BUILDING%20WHAT'S%20NEXT&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=BIM+Engineer;Revit+%7C+Navisworks+%7C+Dynamo;MEP+%7C+BIM+Coordination;Python+%7C+C%23+%7C+JavaScript;Computational+Engineering+%E2%80%94+WIP;Engineering+Automation+%E2%80%94+WIP;CFD+%7C+OpenFOAM+%7C+PyroSim;Unity+%7C+Blender" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=800&lines=BIM+Engineer;Revit+%7C+Navisworks+%7C+Dynamo;MEP+%7C+BIM+Coordination;Computational+Engineering+%E2%80%94+WIP;Engineering+Automation+%E2%80%94+WIP;CFD+%7C+Separate+Engineering+Focus;Unity+%7C+Active;Blender+%7C+Active" />
 
 <br><br>
 
 <a href="https://github.com/Syedjunaid23">
-<img src="https://img.shields.io/badge/BIM-ENGINEER-0A66C2?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/BIM-Engineer-0A66C2?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Syedjunaid23">
-<img src="https://img.shields.io/badge/PYTHON-ACTIVE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computational%20Engineering-WIP-orange?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/Syedjunaid23">
-<img src="https://img.shields.io/badge/C%23-ACTIVE-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-WIP-purple?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/Syedjunaid23">
-<img src="https://img.shields.io/badge/JAVASCRIPT-ACTIVE-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-<a href="https://github.com/Syedjunaid23">
-<img src="https://img.shields.io/badge/CFD-SEPARATE%20FOCUS-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game%20Development-WIP-green?style=for-the-badge&logo=unity&logoColor=white"/>
 </a>
 
 </div>
@@ -49,35 +54,29 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### BIM Engineer
+### BIM ENGINEER
 
-I work primarily in **BIM and MEP**, with a focus on Revit-based modeling, coordination and engineering workflows.
+I work in **BIM and MEP**, with a focus on Revit-based modeling, coordination, engineering documentation and practical digital workflows.
 
 My GitHub is where I document what I **build, learn, test and experiment with**.
 
-### Current Direction
-
-**BIM → Programming → Automation → Computational Engineering**
-
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### Professional Focus
+### PROFESSIONAL DIRECTION
 
-- 🏗️ BIM / MEP
-- 🔍 BIM Coordination
-- 🧩 Revit Families & Data
-- 📐 Revit / Navisworks
-- ⚙️ Engineering Automation
-- 🧮 Computational Engineering
-- 🌊 CFD
-- 🎮 3D / Game Development
+**BIM Engineering**  
+**Computational Engineering**  
+**Engineering Automation**  
+**CFD — Separate Focus**
 
 </td>
 </tr>
 </table>
+
+> **Building from BIM → Programming → Engineering Computing**
 
 ---
 
@@ -85,39 +84,43 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD"/>
+### CURRENT CORE
+
+<img src="https://skillicons.dev/icons?i=autocad" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Revit-Professional-186B8F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Revit%20MEP-Professional-186B8F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Navisworks-Advanced-186B8F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dynamo-Developing-186B8F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REVIT-PROFESSIONAL-2F81F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REVIT%20MEP-PROFESSIONAL-2F81F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NAVISWORKS-ADVANCED-2F81F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DYNAMO-DEVELOPING-6E7681?style=for-the-badge"/>
 
 </div>
 
-### Core BIM Areas
-
 <table>
 <tr>
-<td>🏗️ Revit MEP</td>
-<td>🏢 Architecture / Structure Coordination</td>
-<td>🔩 Mechanical Systems</td>
+<th align="left">BIM ENGINEERING</th>
+<th align="left">CORE CAPABILITIES</th>
 </tr>
 <tr>
-<td>💧 Plumbing Systems</td>
-<td>🔥 Fire Protection</td>
-<td>⚡ MEP Coordination</td>
-</tr>
-<tr>
-<td>🧩 Revit Families</td>
-<td>🔍 Clash Detection</td>
-<td>📐 Model Coordination</td>
-</tr>
-<tr>
-<td>📊 BIM Data</td>
-<td>📋 Documentation</td>
-<td>🔄 BIM Workflows</td>
+<td valign="top">
+
+🏗️ Revit MEP  
+🔩 Mechanical Systems  
+💧 Plumbing Systems  
+🔥 Fire Protection  
+🧩 Revit Families
+
+</td>
+<td valign="top">
+
+🔍 Clash Detection  
+📐 Model Coordination  
+🏢 Architecture / Structure Coordination  
+📊 BIM Data & Parameters  
+📋 Documentation
+
+</td>
 </tr>
 </table>
 
@@ -127,89 +130,36 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-WORK%20IN%20PROGRESS-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-WORK%20IN%20PROGRESS-6E7681?style=for-the-badge"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=python,cpp" alt="Python C++"/>
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 
 </div>
 
 <table>
 <tr>
-<th>Area</th>
-<th>Tools / Topics</th>
-<th>Status</th>
+<th align="left">DISCIPLINE</th>
+<th align="left">CURRENT TOOLSET</th>
+<th align="left">STATUS</th>
 </tr>
 <tr>
-<td>🐍 Scientific Python</td>
-<td>NumPy · Pandas · Matplotlib · SciPy</td>
+<td>Scientific Computing</td>
+<td>NumPy · Pandas · SciPy · Matplotlib</td>
 <td>🟠 Developing</td>
 </tr>
 <tr>
-<td>🧮 Numerical Computing</td>
+<td>Numerical Computing</td>
 <td>Engineering Mathematics · Algorithms</td>
 <td>🟠 WIP</td>
 </tr>
 <tr>
-<td>💻 Programming</td>
-<td>Python · C++</td>
-<td>🟠 WIP</td>
-</tr>
-<tr>
-<td>🧪 Simulation</td>
-<td>Engineering simulation workflows</td>
+<td>Engineering Computing</td>
+<td>Python · C++ · Simulation Methods</td>
 <td>🟠 WIP</td>
 </tr>
 </table>
 
-### Direction
-
-<div align="center">
-
-**Python** → **Scientific Python** → **Numerical Computing** → **Engineering Mathematics** → **Simulation** → **Computational Engineering**
-
-</div>
-
----
-
-# 🌊 CFD
-
-> CFD is kept as a **separate engineering focus**, not merged into the automation section.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CFD-LEARNING%20%26%20EXPERIMENTING-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenFOAM-13-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyroSim-FDS-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ParaView-Visualization-1F6FEB?style=for-the-badge"/>
-
-</div>
-
-<table>
-<tr>
-<th>CFD Area</th>
-<th>Tools / Topics</th>
-</tr>
-<tr>
-<td>🌊 Fluid Flow</td>
-<td>OpenFOAM · Navier–Stokes · Boundary Conditions</td>
-</tr>
-<tr>
-<td>🔥 Heat Transfer</td>
-<td>Energy Equation · Thermal Boundaries · Conjugate Problems</td>
-</tr>
-<tr>
-<td>🧱 Meshing</td>
-<td>blockMesh · snappyHexMesh · Surface Geometry</td>
-</tr>
-<tr>
-<td>🧪 Fire / Smoke</td>
-<td>PyroSim · FDS</td>
-</tr>
-<tr>
-<td>📊 Post Processing</td>
-<td>ParaView · Engineering Visualization</td>
-</tr>
-</table>
+> **Objective:** develop from programming and numerical methods into practical computational engineering.
 
 ---
 
@@ -217,74 +167,86 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-WORK%20IN%20PROGRESS-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-WORK%20IN%20PROGRESS-6E7681?style=for-the-badge"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=python,cs" alt="Python C#"/>
+<img src="https://skillicons.dev/icons?i=python,cs" />
 
 </div>
 
 <table>
 <tr>
-<th>Workflow</th>
-<th>Purpose</th>
+<th align="left">AUTOMATION AREA</th>
+<th align="left">TECHNOLOGY</th>
+<th align="left">STATUS</th>
 </tr>
 <tr>
-<td>Revit + Dynamo</td>
-<td>Visual BIM automation</td>
+<td>Revit Automation</td>
+<td>Dynamo · Python · C#</td>
+<td>🟠 WIP</td>
 </tr>
 <tr>
-<td>Python</td>
-<td>Data processing and engineering automation</td>
-</tr>
-<tr>
-<td>C#</td>
-<td>Revit API and application development</td>
+<td>BIM Data Automation</td>
+<td>Python · Revit data</td>
+<td>🟠 WIP</td>
 </tr>
 <tr>
 <td>Revit API</td>
-<td>Model manipulation and custom BIM tools</td>
+<td>C# · .NET</td>
+<td>🟡 Developing</td>
+</tr>
+<tr>
+<td>Engineering Productivity</td>
+<td>Custom tools · Data workflows</td>
+<td>🟠 WIP</td>
 </tr>
 </table>
 
 ### Automation Targets
 
-- 🤖 Revit automation
-- 📊 BIM data processing
-- 🧩 Parameter automation
-- 📐 Model auditing
-- 📋 Automated documentation
-- 📦 Quantity extraction
-- 🔄 Repetitive workflow automation
-- 🏗️ Engineering productivity tools
+- Revit automation
+- BIM data processing
+- Parameter automation
+- Model auditing
+- Automated documentation
+- Quantity extraction
+- Repetitive workflow automation
+- Engineering productivity tools
 
 ---
 
-# 🎮 3D & GAME DEVELOPMENT
+# 🎮 GAME DEVELOPMENT
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender" alt="Unity C# Blender"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-6E7681?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Unity-ACTIVE-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-ACTIVE-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-ACTIVE-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=unity,cs,blender" />
 
 </div>
 
-<table>
-<tr>
-<td>🎮 Unity</td>
-<td>🔷 C#</td>
-<td>🧊 Blender</td>
-</tr>
-<tr>
-<td>🧱 3D Workflows</td>
-<td>💻 Game Programming</td>
-<td>🌐 Interactive Environments</td>
-</tr>
-</table>
+```text
+                    GAME DEVELOPMENT
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+           UNITY           C#          BLENDER
+             │             │             │
+             └─────────────┼─────────────┘
+                           │
+                           ▼
+                       3D / GAMES
+```
+
+### Current Focus
+
+- Unity
+- C#
+- Blender
+- 3D workflows
+- Game programming
+- Interactive environments
 
 ---
 
@@ -294,27 +256,39 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 ### 🏗️ ENGINEERING
 
-<img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD"/>
+<img src="https://skillicons.dev/icons?i=autocad" />
 
 <br>
 
-`Revit` · `Revit MEP` · `Navisworks` · `Dynamo` · `ACC` · `BIM 360`
+`Revit` `Revit MEP` `Navisworks` `Dynamo` `ACC` `BIM 360`
+
+---
 
 ### 💻 PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css" alt="Programming stack"/>
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css" />
+
+---
 
 ### 🧮 COMPUTING
 
-`NumPy` · `Pandas` · `SciPy` · `Matplotlib`
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+`NumPy` `Pandas` `SciPy` `Matplotlib`
+
+---
 
 ### 🌊 SIMULATION
 
-`OpenFOAM` · `PyroSim` · `FDS` · `ParaView`
+`OpenFOAM` `PyroSim` `FDS` `ParaView`
+
+---
 
 ### 🎮 3D / GAME DEV
 
-<img src="https://skillicons.dev/icons?i=unity,blender" alt="Unity Blender"/>
+<img src="https://skillicons.dev/icons?i=unity,blender,cs" />
 
 </div>
 
@@ -322,104 +296,80 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 # 📊 SKILL MATRIX
 
-<table>
-<tr>
-<th>Category</th>
-<th>Skill</th>
-<th>Status</th>
-</tr>
-<tr>
-<td rowspan="4">🏗️ BIM</td>
-<td>Revit / Revit MEP</td>
-<td>🟢 CORE</td>
-</tr>
-<tr><td>Navisworks</td><td>🟢 CORE</td></tr>
-<tr><td>Dynamo</td><td>🟡 DEVELOPING</td></tr>
-<tr><td>BIM Coordination</td><td>🟢 CORE</td></tr>
-
-<tr>
-<td rowspan="5">💻 PROGRAMMING</td>
-<td>Python</td>
-<td>🟢 ACTIVE</td>
-</tr>
-<tr><td>C#</td><td>🟢 ACTIVE</td></tr>
-<tr><td>JavaScript</td><td>🟢 ACTIVE</td></tr>
-<tr><td>C++</td><td>🟠 WIP</td></tr>
-<tr><td>HTML / CSS</td><td>🟢 ACTIVE</td></tr>
-
-<tr>
-<td rowspan="3">⚙️ AUTOMATION</td>
-<td>Revit API</td>
-<td>🟡 DEVELOPING</td>
-</tr>
-<tr><td>Python Automation</td><td>🟠 WIP</td></tr>
-<tr><td>BIM Automation</td><td>🟠 WIP</td></tr>
-
-<tr>
-<td rowspan="3">🧮 COMPUTATIONAL</td>
-<td>Numerical Computing</td>
-<td>🟠 WIP</td>
-</tr>
-<tr><td>Scientific Python</td><td>🟠 WIP</td></tr>
-<tr><td>Engineering Computing</td><td>🟠 WIP</td></tr>
-
-<tr>
-<td rowspan="3">🌊 CFD</td>
-<td>OpenFOAM</td>
-<td>🟠 WIP</td>
-</tr>
-<tr><td>PyroSim / FDS</td><td>🟠 WIP</td></tr>
-<tr><td>ParaView</td><td>🟠 WIP</td></tr>
-
-<tr>
-<td rowspan="2">🎮 3D / GAME</td>
-<td>Unity</td>
-<td>🟢 ACTIVE</td>
-</tr>
-<tr><td>Blender</td><td>🟢 ACTIVE</td></tr>
-</table>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                     SKILL MATRIX                         ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║ 🏗️  BIM                                                   ║
+║     Revit             ██████████  CORE                   ║
+║     Revit MEP         ██████████  CORE                   ║
+║     Navisworks        █████████░  CORE                   ║
+║     Dynamo             ███████░░░  DEVELOPING             ║
+║                                                          ║
+║ 🐍  PROGRAMMING                                           ║
+║     Python             ███████░░░  ACTIVE              ║
+║     C#                 ███████░░░  ACTIVE              ║
+║     C++                ███░░░░░░░  WIP                ║
+║     JavaScript         ███████░░░  ACTIVE              ║
+║                                                          ║
+║ 🧮  COMPUTATIONAL ENGINEERING                             ║
+║     Numerical Computing ███░░░░░░░  WIP                  ║
+║     Scientific Python   ███░░░░░░░  WIP                  ║
+║     CFD                 ██░░░░░░░░  WIP                  ║
+║                                                          ║
+║ ⚙️  AUTOMATION                                            ║
+║     Dynamo              ████░░░░░░  WIP                  ║
+║     Python Automation   ███░░░░░░░  WIP                  ║
+║     Revit API           ████░░░░░░  DEVELOPING                  ║
+║                                                          ║
+║ 🎮  GAME DEVELOPMENT                                      ║
+║     Unity               ███████░░░  ACTIVE                  ║
+║     Blender             ███░░░░░░░  WIP                  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
 # 🧪 PROJECT LAB
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
-### 🏗️ BIM
+### 🏗️ BIM PROJECTS
 
-**Revit MEP Automation**
+</div>
 
-Revit · Dynamo · Python
-
-🟠 Building
-
-</td>
-<td width="33%" valign="top">
-
-### 🔍 COORDINATION
-
-**BIM Coordination Workflow**
-
-Revit · Navisworks
-
-🟠 Building
-
-</td>
-<td width="33%" valign="top">
-
-### 🧮 COMPUTING
-
-**Engineering Computing**
-
-Python · NumPy · Matplotlib
-
-🟡 Learning
-
-</td>
-</tr>
-</table>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  PROJECT 01                                               │
+│  ───────────────────────────────────────────────────────  │
+│  Revit MEP Automation                                     │
+│                                                          │
+│  Technology: Revit • Dynamo • Python                    │
+│  Status:    🚧 Building                                  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PROJECT 02                                               │
+│  ───────────────────────────────────────────────────────  │
+│  BIM Coordination Workflow                                │
+│                                                          │
+│  Technology: Revit • Navisworks                           │
+│  Status:    🚧 Building                                  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PROJECT 03                                               │
+│  ───────────────────────────────────────────────────────  │
+│  Engineering Computing                                    │
+│                                                          │
+│  Technology: Python • NumPy • Matplotlib                 │
+│  Status:    🟠 Learning                                  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 > Projects will be added here as they are completed.
 
@@ -427,156 +377,121 @@ Python · NumPy · Matplotlib
 
 # 📚 CURRENT LEARNING
 
-<table>
-<tr>
-<th>Track</th>
-<th>Status</th>
-<th>Direction</th>
-</tr>
-<tr>
-<td>🏗️ BIM</td>
-<td>🟢 Core</td>
-<td>Professional BIM / MEP workflows</td>
-</tr>
-<tr>
-<td>🐍 Python</td>
-<td>🟢 Active</td>
-<td>Programming → Scientific Python → Engineering</td>
-</tr>
-<tr>
-<td>🔷 C#</td>
-<td>🟢 Active</td>
-<td>C# → Revit API → Unity</td>
-</tr>
-<tr>
-<td>🌐 JavaScript</td>
-<td>🟢 Active</td>
-<td>Web development</td>
-</tr>
-<tr>
-<td>🧮 Computational Engineering</td>
-<td>🟠 WIP</td>
-<td>Numerical computing → Simulation</td>
-</tr>
-<tr>
-<td>⚙️ Automation</td>
-<td>🟠 WIP</td>
-<td>Python / C# → BIM automation</td>
-</tr>
-<tr>
-<td>💻 C++</td>
-<td>🟠 WIP</td>
-<td>Systems / engineering programming</td>
-</tr>
-<tr>
-<td>🎮 Unity</td>
-<td>🟢 Active</td>
-<td>Game development / interactive 3D</td>
-</tr>
-<tr>
-<td>🧊 Blender</td>
-<td>🟢 Active</td>
-<td>3D modeling / workflows</td>
-</tr>
-</table>
+```text
+2026 DEVELOPMENT ROADMAP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                 ┌───────────────┐
+                 │      BIM      │
+                 │    ████████   │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    PYTHON     │
+                 │    █████░░    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      C#       │
+                 │    ████░░░    │
+                 └───────┬───────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ COMPUTATIONAL        │
+              │ ENGINEERING           │
+              │      ███░░░           │
+              └──────────┬───────────┘
+                         │
+                         ▼
+                  ┌────────────┐
+                  │ AUTOMATION │
+                  │   ███░░    │
+                  └─────┬──────┘
+                        │
+                        ▼
+                  ┌────────────┐
+                  │ GAME DEV   │
+                  │   ██░░░    │
+                  └────────────┘
+```
 
 ---
 
 # 🐍 PYTHON
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-
-</div>
-
-`Fundamentals` → `OOP` → `NumPy` → `Pandas` → `Matplotlib` → `Scientific Computing` → `Automation` → `Engineering Applications`
+```text
+Python
+ │
+ ├── Fundamentals
+ ├── OOP
+ ├── NumPy
+ ├── Pandas
+ ├── Matplotlib
+ ├── Scientific Computing
+ ├── Automation
+ └── Engineering Applications
+```
 
 ---
 
 # 🔷 C#
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs" alt="C#"/>
-
-</div>
-
-`Fundamentals` → `OOP` → `Data Structures` → `.NET` → `Revit API` → `Unity` → `Engineering Automation`
-
----
-
-# 🌐 JAVASCRIPT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript HTML CSS"/>
-
-</div>
-
-`JavaScript` → `DOM` → `Web APIs` → `HTML` → `CSS` → `Interactive Web Projects`
+```text
+C#
+ │
+ ├── Fundamentals
+ ├── OOP
+ ├── Data Structures
+ ├── .NET
+ ├── Revit API
+ ├── Unity
+ └── Engineering Automation
+```
 
 ---
 
-# 🧭 DEVELOPMENT PHILOSOPHY
+# 🌊 CFD
 
 <div align="center">
 
-### LEARN
-↓  
-### UNDERSTAND
-↓  
-### PRACTICE
-↓  
-### BUILD
-↓  
-### DOCUMENT
-↓  
-### SHARE
-↓  
-### IMPROVE ↺
+<img src="https://img.shields.io/badge/CFD-SEPARATE%20ENGINEERING%20FOCUS-2F81F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenFOAM-13-6E7681?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyroSim-FDS-6E7681?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ParaView-POST%20PROCESSING-6E7681?style=for-the-badge"/>
 
 </div>
-
-> **Don't just learn the tool. Understand the problem, build the solution, and document the process.**
-
----
-
-# 🚀 BUILDING TOWARD
-
-<div align="center">
 
 <table>
 <tr>
-<td align="center">🏗️<br><b>BIM ENGINEER</b></td>
-<td>→</td>
-<td align="center">🐍<br><b>PYTHON</b></td>
-<td>+</td>
-<td align="center">🔷<br><b>C#</b></td>
-<td>+</td>
-<td align="center">🧮<br><b>COMPUTING</b></td>
+<th align="left">CFD AREA</th>
+<th align="left">TOOLS / TOPICS</th>
 </tr>
 <tr>
-<td colspan="7" align="center">↓</td>
+<td>Fluid Flow</td>
+<td>OpenFOAM · Navier–Stokes · Boundary Conditions</td>
 </tr>
 <tr>
-<td colspan="7" align="center"><b>COMPUTATIONAL ENGINEERING</b></td>
+<td>Heat Transfer</td>
+<td>Energy Equation · Thermal Boundaries</td>
 </tr>
 <tr>
-<td colspan="7" align="center">↓</td>
+<td>Meshing</td>
+<td>blockMesh · snappyHexMesh · Surface Geometry</td>
 </tr>
 <tr>
-<td colspan="7" align="center"><b>ENGINEERING AUTOMATION</b></td>
+<td>Fire / Smoke</td>
+<td>PyroSim · FDS</td>
 </tr>
 <tr>
-<td colspan="7" align="center">↓</td>
-</tr>
-<tr>
-<td colspan="7" align="center"><b>ENGINEERING TOOLS + 3D + GAME DEVELOPMENT</b></td>
+<td>Post Processing</td>
+<td>ParaView · Engineering Visualization</td>
 </tr>
 </table>
 
-</div>
+**Status:** 🚧 Learning & Experimenting
 
 ---
 
@@ -603,9 +518,6 @@ Python · NumPy · Matplotlib
 
 </div>
 
-> **This section is generated automatically by GitHub Actions.**  
-> The first run creates the `profile-3d-contrib` folder and the SVG images.
-
 ---
 
 # 🐍 CONTRIBUTION SNAKE
@@ -613,9 +525,9 @@ Python · NumPy · Matplotlib
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="./dist/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -644,31 +556,46 @@ Python · NumPy · Matplotlib
 
 # 📂 REPOSITORIES
 
+<!-- REPOSITORIES:START -->
 <div align="center">
 
-<a href="https://github.com/Syedjunaid23?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+| Repository | Description | Language | Updated |
+| :--- | :--- | :---: | :---: |
+| Repository list is generated automatically. | New public repositories will appear here after the repository update workflow runs. | — | — |
 
-<br><br>
+</div>
+<!-- REPOSITORIES:END -->
 
-<table>
-<tr>
-<td>🏗️ BIM</td>
-<td>🧮 Computational Engineering</td>
-<td>⚙️ Automation</td>
-</tr>
-<tr>
-<td>🌊 CFD</td>
-<td>🎮 Game Development</td>
-<td>🐍 Python</td>
-</tr>
-<tr>
-<td>🔷 C#</td>
-<td>🌐 Web</td>
-<td>🧪 Experiments</td>
-</tr>
-</table>
+> Repository cards are maintained automatically from your public GitHub repositories.
+
+---
+
+# 🧭 MY DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+**LEARN** → **UNDERSTAND** → **PRACTICE** → **BUILD** → **DOCUMENT** → **SHARE** → **IMPROVE**
+
+</div>
+
+> Don't just learn the tool.  
+> Understand the problem, build the solution, and document the process.
+
+---
+
+# 🚀 BUILDING TOWARD
+
+<div align="center">
+
+| TODAY | BUILDING | NEXT |
+| :---: | :---: | :---: |
+| 🏗️ **BIM ENGINEER** | 🐍 **PYTHON + C# + COMPUTING** | 🧮 **COMPUTATIONAL ENGINEER** |
+|  | ↓ |  |
+|  | ⚙️ **ENGINEERING AUTOMATION** |  |
+|  | ↓ |  |
+|  | 🌊 **CFD + ENGINEERING TOOLS** |  |
+|  | ↓ |  |
+|  | 🎮 **3D / GAME DEVELOPMENT** |  |
 
 </div>
 
@@ -682,15 +609,19 @@ Python · NumPy · Matplotlib
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add LinkedIn URL when ready -->
-<img src="https://img.shields.io/badge/LinkedIn-ADD%20YOUR%20URL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- Add your LinkedIn URL when ready -->
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-ADD%20YOUR%20URL-6E7681?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- Add portfolio URL when ready -->
-<img src="https://img.shields.io/badge/Portfolio-ADD%20YOUR%20URL-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<!-- Add your portfolio URL when ready -->
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-ADD%20YOUR%20URL-6E7681?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Syedjunaid23&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Syedjunaid23&label=PROFILE+VIEWS&color=2F81F7&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -698,11 +629,11 @@ Python · NumPy · Matplotlib
 
 <div align="center">
 
-### 🏗️ BIM TODAY
-### 🧮 COMPUTATIONAL ENGINEERING TOMORROW
-### ⚙️ AUTOMATION ALONG THE WAY
-### 🌊 CFD AS A SEPARATE ENGINEERING FOCUS
-### 🎮 BUILDING 3D & GAMES TOO
+### 🏗️ BIM ENGINEER TODAY
+### 🧮 COMPUTATIONAL ENGINEER IN DEVELOPMENT
+### ⚙️ ENGINEERING AUTOMATION IN PROGRESS
+### 🌊 CFD — SEPARATE ENGINEERING FOCUS
+### 🎮 3D & GAME DEVELOPMENT
 
 <br>
 
