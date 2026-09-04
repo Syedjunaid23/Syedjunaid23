@@ -301,30 +301,30 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 ║                     SKILL MATRIX                         ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║ 🏗️  BIM                                                   ║
+║ 🏗️  BIM                                                  ║
 ║     Revit             ██████████  CORE                   ║
 ║     Revit MEP         ██████████  CORE                   ║
 ║     Navisworks        █████████░  CORE                   ║
-║     Dynamo             ███████░░░  DEVELOPING             ║
+║     Dynamo             ███████░░░  DEVELOPING            ║
 ║                                                          ║
-║ 🐍  PROGRAMMING                                           ║
-║     Python             ███████░░░  ACTIVE              ║
-║     C#                 ███████░░░  ACTIVE              ║
-║     C++                ███░░░░░░░  WIP                ║
-║     JavaScript         ███████░░░  ACTIVE              ║
+║ 🐍  PROGRAMMING                                          ║
+║     Python             ███████░░░  ACTIVE                ║
+║     C#                 ███████░░░  ACTIVE                ║
+║     C++                ███░░░░░░░  WIP                   ║
+║     JavaScript         ███████░░░  ACTIVE                ║
 ║                                                          ║
-║ 🧮  COMPUTATIONAL ENGINEERING                             ║
+║ 🧮  COMPUTATIONAL ENGINEERING                            ║
 ║     Numerical Computing ███░░░░░░░  WIP                  ║
 ║     Scientific Python   ███░░░░░░░  WIP                  ║
 ║     CFD                 ██░░░░░░░░  WIP                  ║
 ║                                                          ║
-║ ⚙️  AUTOMATION                                            ║
+║ ⚙️  AUTOMATION                                           ║
 ║     Dynamo              ████░░░░░░  WIP                  ║
 ║     Python Automation   ███░░░░░░░  WIP                  ║
-║     Revit API           ████░░░░░░  DEVELOPING                  ║
+║     Revit API           ████░░░░░░  DEVELOPING           ║
 ║                                                          ║
-║ 🎮  GAME DEVELOPMENT                                      ║
-║     Unity               ███████░░░  ACTIVE                  ║
+║ 🎮  GAME DEVELOPMENT                                     ║
+║     Unity               ███████░░░  ACTIVE               ║
 ║     Blender             ███░░░░░░░  WIP                  ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
@@ -343,30 +343,30 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│  PROJECT 01                                               │
-│  ───────────────────────────────────────────────────────  │
-│  Revit MEP Automation                                     │
+│  PROJECT 01                                              │
+│  ─────────────────────────────────────────────────────── │
+│  Revit MEP Automation                                    │
 │                                                          │
-│  Technology: Revit • Dynamo • Python                    │
+│  Technology: Revit • Dynamo • Python                     │
 │  Status:    🚧 Building                                  │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  PROJECT 02                                               │
-│  ───────────────────────────────────────────────────────  │
-│  BIM Coordination Workflow                                │
+│  PROJECT 02                                              │
+│  ─────────────────────────────────────────────────────── │
+│  BIM Coordination Workflow                               │
 │                                                          │
-│  Technology: Revit • Navisworks                           │
+│  Technology: Revit • Navisworks                          │
 │  Status:    🚧 Building                                  │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  PROJECT 03                                               │
-│  ───────────────────────────────────────────────────────  │
-│  Engineering Computing                                    │
+│  PROJECT 03                                              │
+│  ─────────────────────────────────────────────────────── │
+│  Engineering Computing                                   │
 │                                                          │
 │  Technology: Python • NumPy • Matplotlib                 │
-│  Status:    🟠 Learning                                  │
+│  Status:    🟠 Learning                                 │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -401,8 +401,8 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
                          ▼
               ┌──────────────────────┐
               │ COMPUTATIONAL        │
-              │ ENGINEERING           │
-              │      ███░░░           │
+              │ ENGINEERING          │
+              │      ███░░░          │
               └──────────┬───────────┘
                          │
                          ▼
@@ -425,11 +425,6 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 ```text
 Python
  │
- ├── Fundamentals
- ├── OOP
- ├── NumPy
- ├── Pandas
- ├── Matplotlib
  ├── Scientific Computing
  ├── Automation
  └── Engineering Applications
@@ -442,10 +437,6 @@ Python
 ```text
 C#
  │
- ├── Fundamentals
- ├── OOP
- ├── Data Structures
- ├── .NET
  ├── Revit API
  ├── Unity
  └── Engineering Automation
@@ -457,7 +448,7 @@ C#
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CFD-SEPARATE%20ENGINEERING%20FOCUS-2F81F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CFD-%20ENGINEERING%20FOCUS-2F81F7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenFOAM-13-6E7681?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyroSim-FDS-6E7681?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ParaView-POST%20PROCESSING-6E7681?style=for-the-badge"/>
