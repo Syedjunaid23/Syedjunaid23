@@ -76,11 +76,19 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 </div>
 
-<div align="center">
+### BIM Areas
 
-`Revit MEP` · `MEP Coordination` · `Families` · `Clash Detection` · `Model Coordination` · `BIM Data`
-
-</div>
+- 🏗️ Revit MEP
+- 🏢 Architectural / Structural coordination
+- 🔩 Mechanical systems
+- 💧 Plumbing systems
+- 🔥 Fire protection
+- ⚡ MEP coordination
+- 🧩 Revit Families
+- 🔍 Clash Detection
+- 📐 Model Coordination
+- 📊 BIM Data
+- 📋 Documentation
 
 ---
 
@@ -94,15 +102,9 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 
-<br><br>
-
-`NumPy` · `SciPy` · `Pandas` · `Matplotlib` · `Numerical Computing` · `Simulation`
-
-<br><br>
-
-**Status:** 🟠 Learning → 🟡 Practicing → 🟢 Building
-
 </div>
+
+**Status:** 🟠 Work in Progress
 
 ---
 
@@ -118,11 +120,16 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 </div>
 
-<div align="center">
+### Future Automation Projects
 
-`Dynamo` · `Python` · `C#` · `Revit API` · `BIM Automation`
-
-</div>
+- 🤖 Revit automation
+- 📊 BIM data processing
+- 🧩 Parameter automation
+- 📐 Model auditing
+- 📋 Automated documentation
+- 🔄 Repetitive workflow automation
+- 📦 Quantity extraction
+- 🏗️ Engineering productivity tools
 
 ---
 
@@ -138,55 +145,27 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 </div>
 
-<div align="center">
+### 🚧 Learning
 
-`Unity` · `C#` · `Blender` · `3D` · `Game Development`
-
-</div>
+- Unity
+- C#
+- Blender
+- 3D workflows
+- Game programming
+- Interactive environments
 
 ---
 
 # 🧰 TECHNOLOGY STACK
 
-<div align="center">
-
-### 🏗️ ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=autocad" />
-
-<br>
-
-`Revit` `Revit MEP` `Navisworks` `Dynamo` `ACC` `BIM 360`
-
----
-
-### 💻 PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css" />
-
----
-
-### 🧮 COMPUTING
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br>
-
-`NumPy` `Pandas` `SciPy` `Matplotlib`
-
----
-
-### 🌊 SIMULATION
-
-`OpenFOAM` `PyroSim` `FDS` `ParaView`
-
----
-
-### 🎮 3D / GAME DEV
-
-<img src="https://skillicons.dev/icons?i=unity,blender,cs" />
-
-</div>
+| Property | Data |
+|---|---|
+| 🏗️ BIM / Engineering | <img src="https://img.shields.io/badge/Revit-186B8F?style=flat-square&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/Revit%20MEP-186B8F?style=flat-square"/> <img src="https://img.shields.io/badge/Navisworks-186B8F?style=flat-square"/> <img src="https://img.shields.io/badge/Dynamo-186B8F?style=flat-square"/> <img src="https://img.shields.io/badge/ACC-186B8F?style=flat-square"/> <img src="https://img.shields.io/badge/BIM%20360-186B8F?style=flat-square"/> |
+| 💻 Programming | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| 🧮 Scientific / Data | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/> |
+| 🌊 CFD / Simulation | <img src="https://img.shields.io/badge/OpenFOAM-003B5C?style=flat-square"/> <img src="https://img.shields.io/badge/PyroSim-444444?style=flat-square"/> <img src="https://img.shields.io/badge/FDS-444444?style=flat-square"/> <img src="https://img.shields.io/badge/ParaView-005A9C?style=flat-square"/> |
+| ⚙️ Automation | <img src="https://img.shields.io/badge/Dynamo-186B8F?style=flat-square"/> <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Revit%20API-186B8F?style=flat-square"/> |
+| 🎮 3D / Game Dev | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> |
 
 ---
 
@@ -273,59 +252,76 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 # 📚 CURRENT LEARNING
 
-<div align="center">
+```text
+2026 DEVELOPMENT ROADMAP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**BIM** · **Python** · **C#** · **Computational Engineering** · **Automation** · **Game Development**
-
-<br>
-
-`████████░░` BIM &nbsp;&nbsp; `█████░░░░░` Python &nbsp;&nbsp; `████░░░░░░` C#
-
-`███░░░░░░░` Computational Engineering &nbsp;&nbsp; `███░░░░░░░` Automation &nbsp;&nbsp; `██░░░░░░░░` Game Development
-
-</div>
+                 ┌───────────────┐
+                 │      BIM      │
+                 │    ████████   │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    PYTHON     │
+                 │    █████░░    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      C#       │
+                 │    ████░░░    │
+                 └───────┬───────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ COMPUTATIONAL        │
+              │ ENGINEERING           │
+              │      ███░░░           │
+              └──────────┬───────────┘
+                         │
+                         ▼
+                  ┌────────────┐
+                  │ AUTOMATION │
+                  │   ███░░    │
+                  └─────┬──────┘
+                        │
+                        ▼
+                  ┌────────────┐
+                  │ GAME DEV   │
+                  │   ██░░░    │
+                  └────────────┘
+```
 
 ---
 
 # 🐍 PYTHON
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br><br>
-
-**ACTIVE** · `Fundamentals` · `OOP` · `NumPy` · `Pandas` · `Matplotlib` · `Automation`
-
-</div>
-
 ---
 
 # 🔷 C#
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs" />
-
-<br><br>
-
-**ACTIVE** · `Fundamentals` · `OOP` · `.NET` · `Revit API` · `Unity`
-
-</div>
-
 ---
 
-# 🌊 CFD — SEPARATE ENGINEERING FOCUS
+# 🌊 CFD — INSIDE COMPUTATIONAL ENGINEERING
 
-<div align="center">
-
-`OpenFOAM` · `PyroSim` · `FDS` · `ParaView`
-
-<br>
+```text
+              ENGINEERING SIMULATION
+                        │
+                        ▼
+                      CFD
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+       OpenFOAM       PyroSim       FDS
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                        ▼
+                    ParaView
+```
 
 **Status:** 🚧 Learning & Experimenting
-
-</div>
 
 ---
 
@@ -371,7 +367,7 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg" />
+<img src="./dist/github-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
@@ -389,6 +385,23 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 # 🧭 MY DEVELOPMENT PHILOSOPHY
 
+```text
+LEARN
+  ↓
+UNDERSTAND
+  ↓
+PRACTICE
+  ↓
+BUILD
+  ↓
+DOCUMENT
+  ↓
+SHARE
+  ↓
+IMPROVE
+  ↺
+```
+
 > Don't just learn the tool.  
 > Understand the problem, build the solution, and document the process.
 
@@ -396,16 +409,12 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 
 # 🚀 BUILDING TOWARD
 
-<div align="center">
-
-| TODAY | BUILDING | NEXT |
-|:---:|:---:|:---:|
-| 🏗️ **BIM ENGINEER** | 🐍 Python · 🔷 C# · 🧮 Computing | 🧮 **COMPUTATIONAL ENGINEER** |
-| | ⚙️ **ENGINEERING AUTOMATION** | |
-| | 🌊 CFD · 🛠️ ENGINEERING TOOLS | |
-| | 🎮 **3D / GAME DEVELOPMENT** | |
-
-</div>
+| Today | Building | Next |
+|---|---|---|
+| 🏗️ BIM Engineer | 🐍 Python + 🔷 C# + 🧮 Computing | 🧮 Computational Engineer |
+| | ⚙️ Engineering Automation | |
+| | 🌊 CFD + Engineering Tools | |
+| | 🎮 3D / Game Development | |
 
 ---
 
