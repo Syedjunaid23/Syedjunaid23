@@ -9,23 +9,40 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit generated snake
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add dist
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m "generate contribution snake"
-          git push
+
+          git fetch origin output:output || true
+
+          if git show-ref --verify --quiet refs/heads/output; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+
+          cp dist/github-contribution-grid-snake.svg .
+          cp dist/github-contribution-grid-snake-dark.svg .
+
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+
+          if git commit -m "generate contribution snake"; then
+            git push origin output
+          else
+            echo "No snake changes."
+          fi
