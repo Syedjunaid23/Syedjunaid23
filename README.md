@@ -126,8 +126,46 @@ My GitHub is where I document what I **build, learn, test and experiment with**.
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+# 🧊 3D CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+# 📊 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:default/Syedjunaid23"/>
-  <img src="https://ghchart.xqsit94.in/Syedjunaid23" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://ghchart.xqsit94.in/Syedjunaid23" width="100%" alt="GitHub contribution graph"/>
 </picture>
 
 </div>
@@ -550,43 +588,6 @@ C#
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedjunaid23&layout=compact&theme=transparent&hide_border=true&langs_count=10" height="180" alt="Most used languages"/>
-
-</div>
-
----
-
-# 🧊 3D CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Syedjunaid23/Syedjunaid23/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-# 📊 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:default/Syedjunaid23"/>
-  <img src="https://ghchart.xqsit94.in/Syedjunaid23" width="100%" alt="GitHub contribution graph"/>
-</picture>
 
 </div>
 
